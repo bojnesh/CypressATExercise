@@ -1,0 +1,31 @@
+
+## Project Structure
+
+- `cypress/e2e`: Contains test files
+- `cypress/pages`: Page Object Models
+- `cypress/support`: Support files and custom commands
+
+## Configuration
+
+The main Cypress configuration is in `cypress.config.js`. Key settings include:
+
+- Base URL: https://automationexercise.com/
+- Viewport size: 1500x1000
+- Experimental Studio enabled
+
+## Page Objects
+
+The framework uses the Page Object Model pattern. Page objects are located in `cypress/pages/`.
+
+Example page objects:
+- HomePage
+- ProductsPage
+- CartPage
+
+## Custom Commands
+
+Custom Cypress commands can be added in `cypress/support/commands.js`.
+
+## Contributing
+
+Feel free to contribute to this project by submitting pull requests or creating issues for bugs and feature requests.
