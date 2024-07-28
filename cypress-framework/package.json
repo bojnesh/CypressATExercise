@@ -1,0 +1,14 @@
+{
+  "name": "cypress-framework",
+  "version": "1.0.0",
+  "description": "cypress demo",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "npx cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.13.1"
+  }
+}
