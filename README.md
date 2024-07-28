@@ -30,3 +30,7 @@ Custom Cypress commands can be added in `cypress/support/commands.js`.
 ## Contributing
 
 Feel free to contribute to this project by submitting pull requests or creating issues for bugs and feature requests.
+
+## Licence
+
+MIT https://github.com/bojnesh/CypressATExercise/blob/main/LICENSE
