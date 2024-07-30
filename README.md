@@ -6,6 +6,7 @@ https://docs.cypress.io/guides/getting-started/installing-cypress
 
 ## Run Cypress for the first time
 https://docs.cypress.io/guides/getting-started/opening-the-app
+- `npx cypress open`
 
 ## Run Cypress in this project
 - `npm run cypress:open`
