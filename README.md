@@ -1,5 +1,12 @@
 ![db-End2EndTestingCypress-1540x748](https://github.com/user-attachments/assets/6f70eed0-abd2-459a-b51c-702d704478a0)
 
+## Cypress installation guide
+https://docs.cypress.io/guides/getting-started/installing-cypress
+- `npm install cypress --save-dev`
+
+## Run Cypress
+- `npm run cypress:open`
+
 ## Project Structure
 
 - `cypress/e2e`: Contains test files
